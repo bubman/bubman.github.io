@@ -1,0 +1,21 @@
+body{
+	background:#000 url('http://www.jda.fi/fi/kuvat/sivut/Jukola/_MG_1802.jpg') no-repeat;
+	background-size: 100%;
+}
+.block_news{
+	background: #000;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin: 0 auto;
+	margin-top: 15%;
+	width: 650px;
+	color: yellow; 
+}
+
+a {
+    text-decoration: none;  
+	color: yellow; 
+}
+a:hover {
+    color: white; 
+    background-color: red ;
+}
